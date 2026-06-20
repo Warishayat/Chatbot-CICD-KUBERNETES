@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain_groq
+pydantic
+langchain_huggingface
+streamlit
+langchain_community
